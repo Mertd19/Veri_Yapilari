@@ -1,0 +1,36 @@
+C:\Users\mertd\source\repos\BTK\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\Users\mertd\source\repos\BTK\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\Users\mertd\source\repos\BTK\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\Users\mertd\source\repos\BTK\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Array\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
