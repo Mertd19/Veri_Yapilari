@@ -1,0 +1,12 @@
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\bin\Debug\net6.0\CustomTypes.deps.json
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\bin\Debug\net6.0\CustomTypes.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\bin\Debug\net6.0\CustomTypes.pdb
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.csproj.AssemblyReference.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.AssemblyInfoInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.AssemblyInfo.cs
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.csproj.CoreCompileInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\refint\CustomTypes.dll
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\CustomTypes.pdb
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\CustomTypes\obj\Debug\net6.0\ref\CustomTypes.dll
