@@ -1,0 +1,5 @@
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\Student\obj\Debug\net6.0\Student.csproj.AssemblyReference.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\Student\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\Student\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\Student\obj\Debug\net6.0\Student.AssemblyInfo.cs
+C:\Users\mertd\source\repos\BTK_Veri_Yapilari\Veri Yapıları\Student\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
