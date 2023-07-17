@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\SortingAlgorithms\\SortingAlgorithms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\DataStructures\\DataStructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\DataStructures\\DataStructures.csproj",
+        "projectName": "DataStructures",
+        "projectPath": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\DataStructures\\DataStructures.csproj",
+        "packagesPath": "C:\\Users\\mertd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\DataStructures\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mertd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CassandraCSharpDriver": {
+              "target": "Package",
+              "version": "[3.19.2, )"
+            },
+            "Jxnflzc.XMLClassDiagram": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "PlantUmlClassDiagramGenerator.Attributes": {
+              "target": "Package",
+              "version": "[1.3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\SortingAlgorithms\\SortingAlgorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\SortingAlgorithms\\SortingAlgorithms.csproj",
+        "projectName": "SortingAlgorithms",
+        "projectPath": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\SortingAlgorithms\\SortingAlgorithms.csproj",
+        "packagesPath": "C:\\Users\\mertd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\SortingAlgorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mertd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Users\\mertd\\source\\repos\\BTK_Veri_Yapilari\\Veri Yapıları\\DataStructures\\DataStructures.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
